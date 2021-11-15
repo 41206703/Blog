@@ -20,6 +20,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -45,5 +46,15 @@
       <updated>1636730008087</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="272" y="54" key="SettingsEditor" timestamp="1636953246926">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="272" y="54" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1636953246926" />
+    <state x="461" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1636953202435">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="461" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1636953202435" />
   </component>
 </project>
