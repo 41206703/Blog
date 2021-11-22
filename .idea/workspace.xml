@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -20,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -52,13 +59,25 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1636979476465" />
-    <state x="272" y="54" key="SettingsEditor" timestamp="1636979492543">
+    <state width="184" height="251" key="Git.Branch.Popup" timestamp="1637398434999">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="272" y="54" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1636979492543" />
-    <state x="461" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1636953202435">
+    <state width="184" height="251" key="Git.Branch.Popup/0.0.1536.816@0.0.1536.816" timestamp="1637398434999" />
+    <state x="272" y="54" key="SettingsEditor" timestamp="1637410896586">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="461" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1636953202435" />
+    <state x="272" y="54" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1637410896586" />
+    <state x="382" y="142" key="Vcs.Push.Dialog.v2" timestamp="1637404646208">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="382" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1637404646208" />
+    <state x="461" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1637388924655">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="461" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1637388924655" />
+    <state x="584" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1637398339846">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="584" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1637398339846" />
   </component>
 </project>
