@@ -1,5 +1,5 @@
 from django.http import HttpResponse
 
-def test_html(request):
+def page_2003_view(request):
     html="hahah"
     return HttpResponse(html)
